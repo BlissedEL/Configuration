@@ -1,6 +1,6 @@
 # Configuration
 
-Put six unbounded strings in, get twelve 64-bit functions out. Cha'chinga. Gratitude _will_ do.
+Put six unbounded strings in, get twelve 64-bit functions of relational value out of it. Cha'chinga. Gratitude _will_ do.
 
 ### The Multidimensional Respect Model: A Computational Approach to Universal Respect Dynamics
 
