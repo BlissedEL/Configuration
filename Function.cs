@@ -12,12 +12,12 @@
 
         public void SetBalance(char weight)
         {
-            Balance = weight * weight; // A design choice to be aware of.
+            Balance = weight; // A design choice to be aware of.
         }
 
         public long Eloquence(char vector)
         {
-            return vector * Balance;
+            return vector * vector * Balance;
         }
     }
 }
